@@ -1,0 +1,5 @@
+// ignore all java compiled files
+*.class
+bin/
+out/
+target/
